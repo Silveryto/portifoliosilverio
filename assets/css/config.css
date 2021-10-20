@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Source Code Pro", monospace;
+    background: url("../img/bg.jpg") no-repeat top center;
+    background-attachment: fixed;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    color: #aeaeae;
+  }
+  

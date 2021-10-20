@@ -1,0 +1,10 @@
+/*Componentes*/
+
+@import './header.css';
+@import './sobre-mim.css';
+@import './projetos.css';
+@import './card.css';
+@import './reponsivo.css';
+@import './footer.css';
+/*Configurações*/
+@import './config.css';

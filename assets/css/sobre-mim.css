@@ -1,0 +1,67 @@
+img{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+}
+
+
+.box{
+    margin-top: 50px;
+    padding: 4rem;
+    background-color: #eee;
+    box-shadow: 5px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+}
+
+.profile{
+    border-radius: 50px;
+    text-align: center;
+}
+
+.title{
+    font-size: 36px;
+}
+
+figure{
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    padding: 0 16px;
+}
+
+.profile-foto{
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.profile span {
+    font-size: 24px;
+}
+
+.profile p {
+    max-width: 452px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rede-sociais{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rede-sociais, li{
+    margin-right: 1rem;
+}
+
+.box-projetos{
+    margin-bottom: 50px;
+    background-color: #eee;
+}

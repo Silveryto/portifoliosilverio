@@ -1,0 +1,39 @@
+.img-t{
+    height: 11rem;
+}
+
+.portfolio {
+    max-width: 886px;
+    box-sizing: border-box;
+  }
+  
+  .portfolio ul {
+    margin-top: 3rem;
+  }
+  
+  .portfolio li {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: left;
+    gap: 1rem;
+    color: #606060;
+  }
+  
+  .portfolio li + li {
+    margin-top: 2rem;
+  }
+  
+  .portfolio img {
+    border-radius: 10px;
+  }
+  
+  .portfolio h2 {
+    font-weight: normal;
+    margin-bottom: 1rem;
+  }
+
+  a:hover{
+      border: solid;
+      border-radius: 15px;
+      color: #FFC107;
+  }
